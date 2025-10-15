@@ -12,7 +12,7 @@ This is my Guild Member Card.
 > **Spell**: TypeScript/JavaScript (Intermediate), Python (Intermediate), C++/C (Basic).
 > Also learned/experienced: GDScript (Godot Engine), SCLang (SuperCollider), Lua.
 >
-> **Skill**: Web Development (Front-end), Game Development, Translate.
+> **Skill**: Web Development (Front-end), Game Development, Translate, Music Scoring.
 >
 > **Common Tongues**: Japanese, English, Chinese. Learning Français and Deutsch.
 >
