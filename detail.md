@@ -26,10 +26,27 @@ I like to take challenges !
 <div align="right">
     <table><tbody><tr><td>
         <p></p>
-        <p>▶ <a href="https://github.com/OzelotVanilla/OzelotVanilla/blob/main/detail.md#choose_to_listen">
-            So you must have some fancy adventure before, right ?</a>
-        </p>
+        <p>▶ So you must have some fancy adventure before, right ?</p>
         <p>&ensp;&nbsp; (Keep silent)</p>
         <p></p>
     </td></tr></tbody></table>
 </div>
+
+<div id="choose_to_listen"></div>
+
+**Ozelot**: I have been learning programming for 4 years.
+But now I would like to try something new, something about... art!
+
+**Ozelot**: Would you like to have a glance ?
+
+<details>
+  <summary>[Click to Expand/Collapse] A parchment that reads "Plan and Achievement of Art"</summary>
+
+  > Plan and Achievement of Art
+  > ----
+  >
+  > * An *adaptive music* plugin for Godot Engine that based on graph representation
+  > ([portal](https://github.com/OzelotVanilla/AdaptiveMusicUsingGraph)) ... still in progress
+</details>
+
+<p align="right">▼</p>
