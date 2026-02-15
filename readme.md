@@ -7,18 +7,30 @@ Come, we can have a small talk.
 **Ozelot**: Let me quickly introduce myself for you first.
 This is my Guild Member Card.
 
+<br />
+
+> <p align="center"><b>Guild Member Card (for visitors from the real world)</b></p>
+> 
 > **Name**: Ozelot Vanilla / 青木橙花.
 >
-> **Spell**: TypeScript/JavaScript (Intermediate), Python (Intermediate), C++/C (Basic).
-> Also learned/experienced: GDScript (Godot Engine), SCLang (SuperCollider), Lua.
+> **Main Domains**:
+> * Web Front-end Development (React / TypeScript)
+> * Game/Interactive Media Development (Godot)
+> * Audio Interaction Systems/Music Scoring (MuseScore)
 >
-> **Skill**: Web Development (Front-end), Game Development, Translate, Music Scoring.
+> **Core Skills**: 
+> * TypeScript/JavaScript (production level)
+> * Python (research & tooling)
+> * C++/C (basic, hardware/engine side).
+> * Also experienced: GDScript (Godot Engine), SCLang (SuperCollider), Lua, etc.
 >
-> **Common Tongues**: Japanese, English, Chinese. Learning Français and Deutsch.
+> **Languages**: Japanese, English, Chinese. Learning Français and Deutsch.
 >
 > ----
->
+> *If you're new here, please start with the pinned repositories below.*
 > <p align="right">Published by: Guild of Adventurers</p>
+
+<br />
 
 **Ozelot**: Everyday is a good day since I entered the guild,
 I like to take challenges !
