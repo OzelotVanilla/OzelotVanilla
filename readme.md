@@ -21,12 +21,19 @@ This is my Guild Member Card.
 > **Core Skills**: 
 > * TypeScript/JavaScript (production level)
 > * Python (research & tooling)
-> * C++/C (basic, hardware/engine side).
+> * C++/C (basic, hardware/engine side)
 > * Also experienced: GDScript (Godot Engine), SCLang (SuperCollider), Lua, etc.
 >
-> **Languages**: Japanese, English, Chinese. Learning Français and Deutsch.
+> **Languages**: Japanese, English, Chinese. Learning Français, Korean and Deutsch.
 >
 > ----
+> 
+> Proof of contribution:
+> [Issue](https://github.com/search?q=commenter%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc+&type=issues&s=updated&o=desc)
+>  and
+> [Pull Request](https://github.com/search?q=commenter%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc+&type=pullrequests)
+>  involving/created, excluding repo created by myself.
+> 
 > *If you're new here, please start with the pinned repositories below.*
 > <p align="right">Published by: Guild of Adventurers</p>
 
