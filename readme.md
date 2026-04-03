@@ -45,8 +45,11 @@ I like to take challenges !
 <div align="right">
     <table><tbody><tr><td>
         <p></p>
-        <p>▶ <a href="https://github.com/OzelotVanilla/OzelotVanilla/blob/main/detail.md#choose_to_listen">
+        <!-- <p>▶ <a href="https://github.com/OzelotVanilla/OzelotVanilla/blob/main/story_detail.md#choose_to_listen">
             So you must have some fancy adventure before, right ?</a>
+        </p> -->
+        <p>▶ <a href="https://github.com/OzelotVanilla/OzelotVanilla/blob/main/portfolio.md">
+            Let me see your portfolio</a>
         </p>
         <p>&ensp;&nbsp; (Keep silent)</p>
         <p></p>
