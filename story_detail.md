@@ -29,9 +29,9 @@ This is my Guild Member Card.
 > ----
 > 
 > Proof of contribution:
-> [Issue](https://github.com/search?q=commenter%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc+&type=issues&s=updated&o=desc)
+> [Issue](https://github.com/search?q=involves%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc&type=issues&s=updated&o=desc)
 >  and
-> [Pull Request](https://github.com/search?q=commenter%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc+&type=pullrequests)
+> [Pull Request](https://github.com/search?q=involves%3AOzelotVanilla+-user%3AOzelotVanilla+sort%3Aupdated-desc&type=pullrequests)
 >  involving/created, excluding repo created by myself.
 > 
 > *If you're new here, please start with the pinned repositories below.*
