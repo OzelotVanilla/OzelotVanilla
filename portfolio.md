@@ -1,6 +1,8 @@
 Portfolio of Ozelot Vanilla
 ====
 
+[日本語版](./i18n/portfolio/ja_JP.md)
+
 Introduction
 ----
 

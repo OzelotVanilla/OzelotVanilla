@@ -1,6 +1,8 @@
 Hej! You found here, have a seat!
 ====
 
+[日本語版](./i18n/readme/ja_JP.md)
+
 **Ozelot**: Warm and cozy near a bonfire, isn't it ?
 Come, we can have a small talk.
 
