@@ -87,4 +87,4 @@ Music and Creative Works
 * Walz Style: https://flat.io/score/682d2e58dc7790049b3eedf7-di-si-hui-ke-ti?sharingKey=0fb280c8889cebb34786edee280f8d792d0e9223be9e61f69d4c77cc5a29a9e6e741017d333b814326ee0c6fca0b3a2e100ebb88ef847fdbaf58451bb2efbe94
 * Japanese old song style: https://flat.io/score/6833f8e8211e802277a53113-liu-li-noge-ge-yao-qu-feng?sharingKey=a145d512582e02473c280bc18fbde2c502bb33c5a73becbe901403b78e7926bc4390bc42a4ff319480fa6757987f745dd6ebef6951f49ea361294c8c65eddb7b
 * Children's song: https://flat.io/score/68217eebb4b6fc0320ca549f-di-san-hui-ke-ti-transpose?sharingKey=e6c5ce0c3a481254c1341ed5f84897549d97148ebf3ebf3da3cc3eb220bf70c756bc86027e7b1529d37fcde64afed806f3a34d0a5734f83f2cb99a15f05d8b98
-* Art work "About Moon": https://www.capcut.com/sv2/ZSHwRRX4VLahP-bkVSK/
+* Art work "About Moon": https://youtube.com/shorts/qbUlH2ZRewY
